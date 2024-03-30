@@ -20,7 +20,7 @@ class Help(Cog_Extension):
       return
     embed = discord.Embed(
         description=
-        "[Text 2 Image AI bot](https://www.youtube.com/watch?v=fKt1OZlWIU0)\n***COMMANDS -***"
+        "[Support Server](https://discord.gg/BsdfHF6r2M)\n***COMMANDS -***"
     )
     embed.add_field(name="/api_key setting",
                     value="Can set or delete your personal api key.",
